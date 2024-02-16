@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyanka-senthil
 - 👀 I’m a Data Enthusiast
-- 🌱 I’m currently pursuing Data Analytics Engineering at Northeastern University
+- 🌱 I’m a Graduate Student at Northeastern University majoring Data Analytics Engineering.
 - 📫 How to reach me via LinkedIN - https://www.linkedin.com/in/priyanka-25/
 - 😄 Pronouns: She/Her
 
