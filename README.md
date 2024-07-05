@@ -1,6 +1,6 @@
 # Priyanka Senthil Kumar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/your-linkedin) [![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/your-github)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/priyanka-25) [![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/priyanka-senthil)
 
 📍 Boston, MA  
 📧 [senthilkumar.pri@northeastern.edu](mailto:senthilkumar.pri@northeastern.edu)  
