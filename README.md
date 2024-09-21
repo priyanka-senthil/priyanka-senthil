@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I am a Machine Learning Engineer with a strong foundation in Data Analytics Engineering. Currently pursuing a Master's degree at Northeastern University, I am passionate about leveraging data and machine learning to drive impactful business solutions. With over **3 years** of professional experience, I specialize in developing data-driven models, conducting comprehensive analyses, and translating insights into actionable recommendations.
+I am a Data Scientist with a strong foundation in Data Analytics Engineering. Currently pursuing a Master's degree at Northeastern University, I am passionate about leveraging data and machine learning to drive impactful business solutions. With over **3 years** of professional experience, I specialize in developing data-driven models, conducting comprehensive analyses, and translating insights into actionable recommendations.
 
 ## 💼 Experience
 
