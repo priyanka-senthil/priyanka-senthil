@@ -16,13 +16,10 @@ I am a Data Scientist with a strong foundation in Data Analytics Engineering. Cu
 Northeastern University, Boston, USA  
 *May 2024 - Present*
 
-**Machine Learning Engineer**  
+**Data Scientist**  
 Latent View Analytics, Chennai, India  
-*Jan 2022 - May 2023*
+*Jan 2020 - May 2023*
 
-**Data Engineer**  
-Latent View Analytics, Chennai, India  
-*Sep 2020 - Dec 2021*
 
 ## 💻 Tech Stack
 
