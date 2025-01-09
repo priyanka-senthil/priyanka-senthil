@@ -79,9 +79,9 @@ Latent View Analytics, Chennai, India
 
 ![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanka-senthil&show_icons=true&theme=radical)
 
-## 🏆 LeetCode Stats
+--## 🏆 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/PriyankaSenthil?theme=dark&font=Bitter&ext=heatmap)
+--![LeetCode Stats](https://leetcard.jacoblin.cool/PriyankaSenthil?theme=dark&font=Bitter&ext=heatmap)
 
 ## 📫 Contact
 
