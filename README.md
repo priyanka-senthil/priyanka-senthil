@@ -75,14 +75,6 @@ Latent View Analytics, Chennai, India
 **PSG College of Technology, Coimbatore, India**  || Bachelor of Electronics and Communication Engineering  
 *Graduation:* May 2020 | *GPA:* 3.6/4.0  
 
-## 📊 GitHub Stats
-
-![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanka-senthil&show_icons=true&theme=radical)
-
---## 🏆 LeetCode Stats
-
---![LeetCode Stats](https://leetcard.jacoblin.cool/PriyankaSenthil?theme=dark&font=Bitter&ext=heatmap)
-
 ## 📫 Contact
 
 Feel free to reach out to me for collaboration, project discussions, or any other inquiries:
