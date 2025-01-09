@@ -4,7 +4,6 @@
 
 📍 Boston, MA  
 📧 [senthilkumar.pri@northeastern.edu](mailto:senthilkumar.pri@northeastern.edu)  
-📞 857-361-6942  
 
 ## 🚀 About Me
 
