@@ -1,24 +1,25 @@
 # Priyanka Senthil Kumar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/priyanka-25) [![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/priyanka-senthil)
-
 📍 Boston, MA  
 📧 [senthilkumar.pri@northeastern.edu](mailto:senthilkumar.pri@northeastern.edu)  
 
 ## 🚀 About Me
 
-I am a Data Scientist with a strong foundation in Data Analytics Engineering. Currently pursuing a Master's degree at Northeastern University, I am passionate about leveraging data and machine learning to drive impactful business solutions. With over **3 years** of professional experience, I specialize in developing data-driven models, conducting comprehensive analyses, and translating insights into actionable recommendations.
+I have **3+ years** of experience transforming complex datasets into actionable insights across finance and hospitality industries. Currently, I’m a **Software Data Engineering Co-op at Forward Financing** and pursuing my **Master’s in Data Analytics Engineering** at Northeastern University. My expertise includes **Python, Ruby on Rails, SQL, AWS, Snowflake, and Tableau,** with a strong focus on predictive modeling, data visualization, and scalable data solutions. Passionate about ML, cloud technologies, and automation, I thrive on solving real-world problems through data-driven strategies.
 
 ## 💼 Experience
 
+**Software Data Engineering Co-op**  
+Forward Financing, Boston, USA             
+*Jan 2025 - Present*
+
 **Financial Data Analyst**  
 Northeastern University, Boston, USA  
-*May 2024 - Present*
+*May 2024 - Dec 2024*
 
 **Data Scientist**  
 Latent View Analytics, Chennai, India  
 *Jan 2020 - May 2023*
-
 
 ## 💻 Tech Stack
 
@@ -36,10 +37,8 @@ Latent View Analytics, Chennai, India
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=machine-learning&logoColor=white)
 ![Regression](https://img.shields.io/badge/-Regression-3178C6?logo=statistics&logoColor=white)
 ![Classification](https://img.shields.io/badge/-Classification-3178C6?logo=statistics&logoColor=white)
-![Tree Algorithms](https://img.shields.io/badge/-Tree%20Algorithms-3178C6?logo=decision-tree&logoColor=white)
 ![Recommendation Systems](https://img.shields.io/badge/-Recommendation%20Systems-3178C6?logo=recommendation-engine&logoColor=white)
-![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-3178C6?logo=nlp&logoColor=white)
-![Time Series Analysis](https://img.shields.io/badge/-Time%20Series%20Analysis-3178C6?logo=time-series&logoColor=white)
+
 
 **Deep Learning:**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
