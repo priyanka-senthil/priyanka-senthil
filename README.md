@@ -68,10 +68,10 @@ Latent View Analytics, Chennai, India
 
 ## 🎓 Education
 
-**Northeastern University, Boston, USA** || Master of Science in Data Analytics Engineering  
+**Northeastern University, Boston, USA** || Masters in Data Analytics Engineering  
 *Expected Graduation:* December 2025 | *GPA:* 4.0/4.0  
 
-**PSG College of Technology, Coimbatore, India**  || Bachelor of Electronics and Communication Engineering  
+**PSG College of Technology, Coimbatore, India**  || Bachelors in Electronics and Communication Engineering  
 *Graduation:* May 2020 | *GPA:* 3.6/4.0  
 
 ## 📫 Contact
