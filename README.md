@@ -11,7 +11,7 @@ I have **3+ years** of experience transforming complex datasets into actionable 
 
 **Software Data Engineering Co-op**  
 Forward Financing, Boston, USA             
-*Jan 2025 - Present*
+*Jan 2025 - Aug 2025*
 
 **Financial Data Analyst**  
 Northeastern University, Boston, USA  
