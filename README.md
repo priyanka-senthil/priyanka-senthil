@@ -5,11 +5,24 @@
 
 ## 🚀 About Me
 
-I have **3+ years** of experience transforming complex datasets into actionable insights across finance and hospitality industries. Currently, I’m a **Software Data Engineering Co-op at Forward Financing** and pursuing my **Master’s in Data Analytics Engineering** at Northeastern University. My expertise includes **Python, Ruby on Rails, SQL, AWS, Snowflake, and Tableau,** with a strong focus on predictive modeling, data visualization, and scalable data solutions. Passionate about ML, cloud technologies, and automation, I thrive on solving real-world problems through data-driven strategies.
+🎯 Data Scientist & ML Engineer with 3+ years of experience building production-grade data pipelines, predictive models, and AI-powered solutions across fintech and analytics domains
+
+🎓 Pursuing an M.S. in Data Analytics Engineering at Northeastern University (Boston), graduating December 2025
+
+💼 Former Data Engineering Co-op at **Forward Financing**, where I designed and optimized ETL workflows and delivered analytics supporting credit-risk and business decisions
+
+🌍 Previously at **LatentView Analytics**, contributing to end-to-end ML pipelines, data modeling, and dashboards for global clients in finance and hospitality
+
+🔧 Core expertise: Machine Learning & Deep Learning · Data Engineering (Python, SQL, Spark, Databricks, Snowflake) · Cloud (AWS, GCP) · MLOps · Generative AI & LLM applications
+
+🔭 Actively seeking full-time roles as a **Data Scientist**, **Machine Learning Engineer**, or **AI Engineer**
+
+📫 Let's connect if you're building data-driven products or ML systems that create real business impact!
+
 
 ## 💼 Experience
 
-**Software Data Engineering Co-op**  
+**Data Engineering Co-op**  
 Forward Financing, Boston, USA             
 *Jan 2025 - Aug 2025*
 
@@ -37,8 +50,6 @@ Latent View Analytics, Chennai, India
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=machine-learning&logoColor=white)
 ![Regression](https://img.shields.io/badge/-Regression-3178C6?logo=statistics&logoColor=white)
 ![Classification](https://img.shields.io/badge/-Classification-3178C6?logo=statistics&logoColor=white)
-![Recommendation Systems](https://img.shields.io/badge/-Recommendation%20Systems-3178C6?logo=recommendation-engine&logoColor=white)
-
 
 **Deep Learning:**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
