@@ -34,6 +34,7 @@ Northeastern University, Boston, USA
 Latent View Analytics, Chennai, India  
 *Jan 2020 - May 2023*
 
+
 ## 💻 Tech Stack
 
 **Programming Languages:**
@@ -50,23 +51,39 @@ Latent View Analytics, Chennai, India
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=machine-learning&logoColor=white)
 ![Regression](https://img.shields.io/badge/-Regression-3178C6?logo=statistics&logoColor=white)
 ![Classification](https://img.shields.io/badge/-Classification-3178C6?logo=statistics&logoColor=white)
+![Recommendation Systems](https://img.shields.io/badge/-Recommendation%20Systems-3178C6?logo=recommendation-engine&logoColor=white)
 
-**Deep Learning:**
+**Deep Learning & Generative AI:**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD700?logo=huggingface&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-412991?logo=openai&logoColor=white)
+
+**Data Engineering:**
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white)
 
 **Cloud Computing:**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![S3](https://img.shields.io/badge/-S3-232F3E?logo=amazon-s3&logoColor=white)
 ![Lambda](https://img.shields.io/badge/-Lambda-232F3E?logo=aws-lambda&logoColor=white)
+![Glue](https://img.shields.io/badge/-AWS%20Glue-232F3E?logo=amazon-aws&logoColor=white)
+![Redshift](https://img.shields.io/badge/-Redshift-232F3E?logo=amazon-redshift&logoColor=white)
 ![EventBridge](https://img.shields.io/badge/-EventBridge-232F3E?logo=aws-eventbridge&logoColor=white)
 ![Athena](https://img.shields.io/badge/-Athena-232F3E?logo=aws-athena&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?logo=google-cloud&logoColor=white)
+
+**MLOps:**
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 **Data Visualization:**
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-4169E1?logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-69A5D8?logo=seaborn&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=white)
 
 **Version Control:**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
@@ -75,7 +92,6 @@ Latent View Analytics, Chennai, India
 **Project Management:**
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)
-
 
 ## 🎓 Education
 
@@ -88,7 +104,6 @@ Latent View Analytics, Chennai, India
 ## 📫 Contact
 
 Feel free to reach out to me for collaboration, project discussions, or any other inquiries:
-
 Email: [senthilkumar.pri@northeastern.edu](mailto:senthilkumar.pri@northeastern.edu)  
 LinkedIn: [Priyanka-Senthil-Kumar](https://www.linkedin.com/in/priyanka-25)  
 GitHub: [Priyanka-Senthil](https://github.com/priyanka-senthil)
