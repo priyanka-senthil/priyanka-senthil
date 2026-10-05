@@ -7,9 +7,9 @@
 
 🎯 Data Scientist & ML Engineer with 3+ years of experience building production-grade data pipelines, predictive models, and AI-powered solutions across fintech and analytics domains
 
-🎓 Pursuing an M.S. in Data Analytics Engineering at Northeastern University (Boston), graduating December 2025
+🎓 Pursuing an M.S. in Data Analytics Engineering at Northeastern University (Boston), graduated in April 2026
 
-💼 Former Data Engineering Co-op at **Forward Financing**, where I designed and optimized ETL workflows and delivered analytics supporting credit-risk and business decisions
+💼 Former Data Engineering Co-op at **Forward Financing**, where I built a RAG-based underwriting assistant, designed agentic AI pipelines for automated risk scoring, and developed an LLM-assisted identity validation service with bias assessment checks.
 
 🌍 Previously at **LatentView Analytics**, contributing to end-to-end ML pipelines, data modeling, and dashboards for global clients in finance and hospitality
 
@@ -96,7 +96,7 @@ Latent View Analytics, Chennai, India
 ## 🎓 Education
 
 **Northeastern University, Boston, USA** || Masters in Data Analytics Engineering  
-*Graduation:* May 2026 | *GPA:* 4.0/4.0  
+*Graduation:* Apr 2026 | *GPA:* 3.8/4.0  
 
 **PSG College of Technology, Coimbatore, India**  || Bachelors in Electronics and Communication Engineering  
 *Graduation:* May 2020 | *GPA:* 3.6/4.0  
