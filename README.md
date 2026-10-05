@@ -9,7 +9,7 @@
 
 🎓 Pursuing an M.S. in Data Analytics Engineering at Northeastern University (Boston), graduated in April 2026
 
-💼 Former Data Engineering Co-op at **Forward Financing**, where I built a RAG-based underwriting assistant, designed agentic AI pipelines for automated risk scoring, and developed an LLM-assisted identity validation service with bias assessment checks.
+💼 Former AI Engineer at **Forward Financing**, where I built a RAG-based underwriting assistant, designed agentic AI pipelines for automated risk scoring, and developed an LLM-assisted identity validation service with bias assessment checks.
 
 🌍 Previously at **LatentView Analytics**, contributing to end-to-end ML pipelines, data modeling, and dashboards for global clients in finance and hospitality
 
